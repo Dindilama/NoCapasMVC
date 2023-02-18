@@ -1,0 +1,16 @@
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.csproj.AssemblyReference.cache
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.AssemblyInfoInputs.cache
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.AssemblyInfo.cs
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.csproj.CoreCompileInputs.cache
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.RazorAssemblyInfo.cache
+C:\Users\dindi\OneDrive\Escritorio\Proyecto Lenguaje\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.RazorAssemblyInfo.cs
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.csproj.AssemblyReference.cache
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.AssemblyInfoInputs.cache
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.AssemblyInfo.cs
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.csproj.CoreCompileInputs.cache
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.RazorAssemblyInfo.cache
+C:\Users\dindi\OneDrive\Escritorio\NoCapasMVC\NoCapasMVC\obj\Debug\net6.0\NoCapasMVC.RazorAssemblyInfo.cs
